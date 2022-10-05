@@ -1,2 +1,3 @@
 # 12-factor-app-pills
-Pills to review the methodology for building software-as-a-service apps
+
+Pills based on the 12-factor app methodology for building software-as-a-service apps.
