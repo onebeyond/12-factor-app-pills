@@ -1,0 +1,27 @@
+{
+  "name": "12-factor-app-pills",
+  "version": "1.0.0",
+  "description": "Pills to review the methodology for building software-as-a-service apps",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidesmiths/12-factor-app-pills.git"
+  },
+  "keywords": [
+    "12-factor",
+    "pill"
+  ],
+  "author": "Íñigo Marquínez <inigo.marquinez@one-beyond.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guidesmiths/12-factor-app-pills/issues"
+  },
+  "homepage": "https://github.com/guidesmiths/12-factor-app-pills#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.19"
+  }
+}
