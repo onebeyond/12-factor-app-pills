@@ -1,7 +1,7 @@
 {
   "name": "12-factor-app-pills",
   "version": "1.0.0",
-  "description": "Pills to review the methodology for building software-as-a-service apps",
+  "description": "💊 Pills to review the methodology for building software-as-a-service apps",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
