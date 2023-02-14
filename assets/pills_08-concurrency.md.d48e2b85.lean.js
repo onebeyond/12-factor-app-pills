@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./app.bcc36b84.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/08-concurrency.md"}'),c={name:"pills/08-concurrency.md"};function n(o,a,s,p,_,i){return t(),r("div")}const m=e(c,[["render",n]]);export{d as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app.bcc36b84.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/11-logs.md"}'),o={name:"pills/11-logs.md"};function a(r,c,n,p,l,_){return s(),t("div")}const m=e(o,[["render",a]]);export{d as __pageData,m as default};
