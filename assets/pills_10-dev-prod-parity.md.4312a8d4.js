@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.bcc36b84.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/10-dev-prod-parity.md"}'),a={name:"pills/10-dev-prod-parity.md"};function o(s,p,c,n,d,i){return r(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./app.13711185.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/06-processes.md"}'),r={name:"pills/06-processes.md"};function o(a,c,n,p,_,i){return t(),s("div")}const m=e(r,[["render",o]]);export{d as __pageData,m as default};

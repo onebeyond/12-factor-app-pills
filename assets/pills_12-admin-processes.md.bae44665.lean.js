@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./app.13711185.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/12-admin-processes.md"}'),a={name:"pills/12-admin-processes.md"};function r(o,c,n,p,i,d){return t(),s("div")}const l=e(a,[["render",r]]);export{m as __pageData,l as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./app.bcc36b84.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/03-config.md"}'),a={name:"pills/03-config.md"};function n(r,s,c,i,p,_){return o(),t("div")}const d=e(a,[["render",n]]);export{l as __pageData,d as default};

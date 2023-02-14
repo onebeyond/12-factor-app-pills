@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as s}from"./app.bcc36b84.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pills/09-disposability.md"}'),a={name:"pills/09-disposability.md"};function i(o,r,p,c,n,l){return s(),e("div")}const m=t(a,[["render",i]]);export{d as __pageData,m as default};
