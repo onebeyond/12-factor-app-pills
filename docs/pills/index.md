@@ -1,6 +1,8 @@
---
+---
 sidebar: false
 ---
+
+![twelve-factor-app-logo](../assets/banner.svg)
 
 # Pills
 

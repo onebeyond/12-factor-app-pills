@@ -8,7 +8,7 @@ head:
       content: 12-factor app, pills, learning
   - - meta
     - property: og:image
-      content: https://raw.githubusercontent.com/guidesmiths/12-factor-app-pills/main/assets/logo_large.png
+      content: https://res.cloudinary.com/codersociety/image/fetch/https://cdn.development.codersociety.com/uploads/the-twelve-factor-app-1.png
 home: true
 heroImage: /logo_small.png
 heroAlt: Git Pills logo small
