@@ -1,10 +1,8 @@
----
-sidebar: false
----
-
 ![twelve-factor-app-logo](../assets/banner.svg)
 
 # Pills
+
+We have structured this document into brief ***knowledge share pills*** 💊, providing additional clarifications and examples for each of them:
 
 - [I. Codebase](./01-codebase.md)
 - [II. Dependencies](./02-dependencies.md)

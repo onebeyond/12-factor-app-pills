@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/guidesmiths/12-factor-app-pills#readme",
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.19"
+    "vitepress": "^1.0.0-alpha.46"
   }
 }

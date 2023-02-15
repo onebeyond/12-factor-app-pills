@@ -127,3 +127,5 @@ dist
 .vscode
 
 .DS_Store
+
+**/.vitepress/cache/
