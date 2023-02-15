@@ -4,7 +4,7 @@ module.exports = {
   lang: 'en-US',
   base: '/12-factor-app-pills/',
   themeConfig: {
-    repo: 'guidesmiths/12-factor-app-pills',
+    repo: 'onebeyond/12-factor-app-pills',
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: true,
