@@ -7,7 +7,7 @@ An app should be stopped gracefully at any time without losing data or causing d
 
 ![Disposability](../assets/disposability.png){ style="display: block; margin: 0 auto" }
 
-In a resilience and robust system that scales dynamically, an app has to be replaceable fast and easily. I must therefore be able to handle a ``SIGTERM``, completing running processes and freeing the resources as quick as possible. In the same way, the start-up of the app should be equally fast and completed as soon as possible.
+In a resilient and robust system that scales dynamically, an app has to be replaceable fast and easily. It must therefore be able to handle a ``SIGTERM``, completing running processes and freeing the resources as quickly as possible. In the same way, the start-up of the app should be equally fast and completed as soon as possible.
 
 ## Reduce the potential downtime between updating or scaling events
 
