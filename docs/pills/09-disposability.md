@@ -11,7 +11,7 @@ In a resilient and robust system that scales dynamically, an app has to be repla
 
 ## Reduce the potential downtime between updating or scaling events
 
-This means new instances should be started, traffic gradually shifted, and old instances gracefully terminated without interruptions. Too slow a response to a health check at end or start could lead to alerts and deployment failures in certain systems.
+This means new instances should be started, traffic gradually shifted, and old instances gracefully terminated without interruptions. Replying too slowly to a health check at end or start could lead to alerts and deployment failures in certain systems.
   
 ## Avoid losing critical data
 
